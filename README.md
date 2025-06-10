@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Zahid</h1>
 
-<h3 align="center">A passionate Web developer from Karachi, Pakistan</h3>
+<h3 align="center">A passionate Web & Mobile App Developer</h3>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoqFsGfw3DbFfV3GXH-HtYYZ-JvUpQaka5w&usqp=CAU" style="width: 100vw; height: 100%;" />
 
