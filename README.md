@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel, ASP.Net Core, C#**
 
-- 📫 How to reach me **ZeeshanTheCoder@gmail.com**
+- 📫 How to reach me **ZeeshanTheCoder@gmail.com**l
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4EUMIg8XvTukxKxAzDb0sjRIogflJ76Dyg&usqp=CAU" style="width: 100vw; height: 100%;"/>
 
@@ -33,6 +33,6 @@
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> 
 
 </p>
