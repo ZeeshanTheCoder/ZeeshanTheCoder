@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=ZeesahnTheCoder&label=Profile%20views&color=0e75b6&style=flat" alt="ZeesahnTheCoder" /> 
 </p>
 
-- 🔭 I’m currently working on **Netpulse Digital**
+- 🔭 I’m currently working on **Netpulse Digital, Fast Print Guys**
 
-- 🌱 I’m currently learning **MERN Stack, C++**
+- 🌱 I’m currently learning **MERN Stack, NextJS, Django**
 
 - 💬 Ask me about **MERN Stack, Flutter, Firebase**
 
