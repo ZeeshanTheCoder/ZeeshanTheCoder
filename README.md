@@ -136,4 +136,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeeshanTheCoder&show_icons=true&locale=en" alt="ZeeshanTheCoder" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=ZeeshanTheCoder&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="ZeeshanTheCoder" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeeshanTheCoder&" alt="ZeeshanTheCoder" /></p>
