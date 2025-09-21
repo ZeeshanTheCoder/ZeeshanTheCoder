@@ -133,6 +133,16 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
 </a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+</a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
+</a>
+<a href="https://render.com/" target="_blank" rel="noreferrer">
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=ZYrxKUyruOEupgw5Lr5amgwgBCJq8VXH8r05Qr5CeQc" alt="Render" width="40" height="40"/>
+</a>
+
 </p>
 
 
